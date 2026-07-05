@@ -56,7 +56,7 @@ smart-prep/
 
 Smart Prep follows a layered design:
 
-1. **Presentation Layer** (Streamlit UI) – Handles user interactions and displays content.
+1. **Presentation Layer** (Streamlit UI) –  Handles user interactions and displays content.
 2. **Application Layer** (Python Logic) – Implements business rules: authentication, content retrieval, and quiz evaluation.
 3. **Data Layer** (MongoDB & SQLite) – Stores unstructured and structured data respectively.
 
